@@ -1,0 +1,21 @@
+
+body {
+      background-color: pink;
+}
+h2 {
+    background-color: blueviolet;
+    color: black;
+    font-size: larger;
+}
+h1 {
+    color:aquamarine;
+}
+h3 {
+    color:coral;
+    font-style: italic;
+}
+h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: deeppink;
+    font-size: 6pt;
+}
